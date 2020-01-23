@@ -5,7 +5,7 @@ mode(x1)
 length(x1)
 
 
-##############
+###############
 
 > x2<-c(TRUE,FALSE,TRUE,FALSE,FALSE)
 > class(x2)
